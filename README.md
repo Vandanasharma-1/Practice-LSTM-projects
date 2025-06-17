@@ -77,6 +77,6 @@ This strong performance underscores the model's ability to accurately differenti
 
 Feel free to connect with me on LinkedIn if you have any questions or would like to discuss this project further!
 
-[LinkedIn Profile Link Here - e.g., `https://www.linkedin.com/in/vandana-sharma-20a5ab24a/`]
+[LinkedIn Profile Link Here - `https://www.linkedin.com/in/vandana-sharma-20a5ab24a/`]
 
 ---
